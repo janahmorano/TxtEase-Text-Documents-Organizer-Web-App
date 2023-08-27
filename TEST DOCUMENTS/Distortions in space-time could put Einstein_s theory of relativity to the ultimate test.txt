@@ -1,0 +1,13 @@
+Scientists could soon test Einstein's theory of general relativity by measuring the distortion of time. 
+
+According to new research published June 22 in the journal Nature Astronomy, the newly proposed method turns the edge of space and time into a vast cosmic lab to investigate if general relativity can account for dark matter — a mysterious, invisible form of matter that can only be inferred by its gravitational influence on the universe's visible matter and energy — as well as the accelerating expansion of the universe due to dark energy. The method is ready to be tested on future surveys of the deep universe, according to the study authors.
+
+General relativity states that gravity is the result of mass warping the fabric of space and time, which Einstein lumped into a four-dimensional entity called space-time. According to relativity, time passes more slowly close to a massive object than it does in a mass-less vacuum. This change in the passing of time is called time distortion.
+
+Since its introduction in 1915, general relativity has been tested extensively and has become our best description of gravity on tremendous scales. But scientists aren't yet sure if it can explain invisible dark matter and dark energy, which together account for around 95% of the energy and matter in the universe.
+
+"Time distortion predicted by general relativity has already been measured very precisely at small distances," Camille Bonvin, lead study author and an associate professor at the University of Geneva, told Live Science via email. "It has been measured for planes flying around the Earth, for stars in our galaxy, and also for clusters of galaxies. We propose a method to measure the distortion of time at very large distances."
+
+The method suggests testing time distortion by measuring redshift, the change in the frequency of light an object emits as it moves away from us. Bonvin said the difference here is that this technique measures redshift caused as light attempts to climb out of a gravitational well, a "dent" in space-time created by a massive object. 
+
+"This climb changes the frequency of the light because time passes at different rates inside and outside of the gravitational well," she said. "As a consequence, the color of the light is changed; it is shifted to red. … By measuring gravitational redshift, we obtain a measurement of the distortion of time."
