@@ -1,4 +1,5 @@
 ﻿## TxtEase-Text-Documents-Organizer-Web-App
+![txtEase](https://github.com/janahmorano/TxtEase-Text-Documents-Organizer-Web-App/assets/142562162/17430ca8-d9ac-4998-a7df-66698730acd1)
 
 This Flask-based web application streamlines the organization of uploaded text documents through the power of K-Means clustering. Users can effortlessly upload DOCX, TXT, and PDF files, allowing the application's K-Means algorithm to intelligently group similar documents into clusters. The resulting clusters are available for easy download in a convenient ZIP file format.
 
